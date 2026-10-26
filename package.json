@@ -1,0 +1,15 @@
+{
+  "name": "rolldown-11298-chunk-import-order",
+  "private": true,
+  "type": "module",
+  "description": "rolldown#11298: chunk import order in Rolldown, Rollup and esbuild",
+  "scripts": {
+    "verify": "node verify.mjs"
+  },
+  "devDependencies": {
+    "es-module-lexer": "1.7.0",
+    "esbuild": "0.28.2",
+    "rolldown": "1.2.11",
+    "rollup": "4.64.0"
+  }
+}
